@@ -2,4 +2,4 @@
 
 Bu proje ortak bir web projesidir.
 
-Bu projeyi Göhan Sobacı ile Ali Gürbüz yapmaktadır.
+Bu projeyi Gökhan Sobacı ile Ali Gürbüz yapmaktadır.
