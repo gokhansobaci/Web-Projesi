@@ -5,7 +5,7 @@
 
       form {
         background-color: #ffffff;
-        border: 1px solid #950505;
+        border: 2px solid #950505;
         border-radius: 5px;
         box-shadow: 0px 0px 5px #d2c8c8;
         padding: 20px;
@@ -24,7 +24,7 @@
         margin: 8px 0;
         display: inline-block;
         border: 1px solid #ccc;
-        border-radius: 4px;
+        border-radius: 10px;
         box-sizing: border-box;
       }
 
@@ -32,9 +32,9 @@
         background-color: #4caf50;
         color: white;
         padding: 14px 20px;
-        margin: 8px 0;
+        margin: 10px 0;
         border: none;
-        border-radius: 4px;
+        border-radius: 120px;
         cursor: pointer;
         width: 100%;
       }
@@ -49,6 +49,7 @@
 
       span.psw {
         float: right;
-        padding-top: 16px;
+        padding-top: 1px;
+      
       }
     
